@@ -1,0 +1,19 @@
+{
+  "name": "mgenware-tsconfig-node-x",
+  "version": "0.0.0",
+  "description": "An opinionated tsconfig for node projects",
+  "author": "Mgenware (https://github.com/mgenware)",
+  "homepage": "https://github.com/mgenware/mgenware-tsconfig-node-x",
+  "bugs": "https://github.com/mgenware/mgenware-tsconfig-node-x/issues",
+  "keywords": [
+    "tsconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgenware/mgenware-tsconfig-node-x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@tsconfig/node16": "^1.0.0"
+  }
+}
