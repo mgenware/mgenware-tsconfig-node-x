@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-yarn add mgenware-tsconfig-node-x -D
+npm i -D mgenware-tsconfig-node-x
 ```
 
 NOTE: package major version indicates the minimum supported node version.
