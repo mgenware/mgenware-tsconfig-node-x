@@ -13,6 +13,9 @@
     "url": "https://github.com/mgenware/mgenware-tsconfig-node-x"
   },
   "license": "MIT",
+  "scripts": {
+    "test": "node ./validate.js"
+  },
   "dependencies": {
     "@tsconfig/node16": "^1.0.2"
   }

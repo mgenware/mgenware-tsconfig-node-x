@@ -12,7 +12,6 @@
     "noEmitOnError": true,
     "module": "ESNext",
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
     "newLine": "lf"
   }
 }
