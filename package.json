@@ -14,6 +14,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@tsconfig/node16": "^1.0.0"
+    "@tsconfig/node16": "^1.0.2"
   }
 }
