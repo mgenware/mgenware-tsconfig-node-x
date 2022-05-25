@@ -12,6 +12,7 @@
     "noEmitOnError": true,
     "module": "ESNext",
     "moduleResolution": "node",
+    "noImplicitOverride": true,
     "newLine": "lf"
   }
 }
