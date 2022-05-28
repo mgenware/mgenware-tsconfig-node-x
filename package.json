@@ -1,7 +1,7 @@
 {
   "name": "mgenware-tsconfig-node-x",
-  "version": "16.2.0",
-  "description": "An opinionated tsconfig for node projects",
+  "version": "16.3.0",
+  "description": "An opinionated tsconfig for node projects (Latest LTS only)",
   "author": "Mgenware (https://github.com/mgenware)",
   "homepage": "https://github.com/mgenware/mgenware-tsconfig-node-x",
   "bugs": "https://github.com/mgenware/mgenware-tsconfig-node-x/issues",
@@ -17,6 +17,6 @@
     "test": "node ./validate.js"
   },
   "dependencies": {
-    "@tsconfig/node16": "^1.0.2"
+    "mgenware-tsconfig-core": "^14.0.0"
   }
 }
